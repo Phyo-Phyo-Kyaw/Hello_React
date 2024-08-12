@@ -48,7 +48,7 @@ export default function LatestProduct({latestProducts}) {
                     >
                         {product.featured && (
                         <span className="text-xs text-white bg-orange-500 px-2 py-1 mb-2 inline-block">
-                            Featured
+                            Newly Arrive
                         </span>
                         )}
                         {product.itemsLeft && (
